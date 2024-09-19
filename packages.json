@@ -1,7 +1,6 @@
 {
   "packages": {
     "example": {
-      "packageName": "Example Package",
       "version": "1.0.0",
       "get": "https://github.com/Lua-Software/Roblox-Package-Manager/raw/main/RPM-Official-Packages/Example.lua"
     }
